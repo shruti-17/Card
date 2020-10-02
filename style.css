@@ -17,9 +17,9 @@ body{
     align-items: center;  
 }
 .bt{
-    background-color: #77212E;
+    background-color: #76212E;
     border-radius: 50%;
-    border: 2px #FA9A85;
+    border: 2px #FA9A86;
 }
 .card {
     width: 360px;
@@ -107,7 +107,7 @@ body{
     color: white;
     font-size: 18px;
     background-color: rgba(0, 0 ,0, 0.4);
-    width: 90%;
+    width: 95%;
     text-align: center;
     padding: 10px;
     margin-bottom: 10px;
